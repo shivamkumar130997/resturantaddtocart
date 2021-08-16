@@ -9,3 +9,6 @@ frist create a folder with name[xyz] then extract  trailthreeaddcart.7z
 then inside xyz create package folder and inside packages extract Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.7z   and packages.7z
 
 your project is fully complete..
+
+
+database is in file databse scrict just copy paste in microsoft sql and execute
